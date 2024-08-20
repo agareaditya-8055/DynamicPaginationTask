@@ -30,7 +30,9 @@ To get started with this project, follow these steps:
    ```bash
    npm run start
 
-   Open your browser and visit http://localhost:3000 to see the component in action.
+  
+  
+ ==> Open your browser and visit http://localhost:3000 to see the component in action.
 
 
 
